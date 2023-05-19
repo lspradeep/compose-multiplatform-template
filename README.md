@@ -44,4 +44,3 @@ We recommend using [IntelliJ IDEA 2023.1 or newer](https://www.jetbrains.com/ide
 # Learn more
 
 * [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform/#compose-multiplatform)
-* [Other examples](../../../#examples)
